@@ -1,0 +1,5 @@
+3,1,4,6,9,2,5,7
+
+3 is a parent of 1 and 4 
+4 is a parent of 6 when 6 is a parent of 9
+9 is a parent of 2 and 5 and 5 is a parent of 7
