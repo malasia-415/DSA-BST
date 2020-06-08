@@ -1,2 +1,12 @@
 3,1,4,6,9,2,5,7
 
+3 is a parent of 1 and 4 
+4 is a parent of 6 when 6 is a parent of 9
+9 is a parent of 2 and 5 and 5 is a parent of 7,For removal get rid of 7
+3,1,4,6,9,2,5
+
+Get rid of 5 because it has no child 
+3,1,4,6,9,2
+
+Get rid of 2 because it has not child 
+3,1,4,6,9
